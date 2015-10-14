@@ -1,0 +1,74 @@
+/* line 1, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
+html {
+  box-sizing: border-box; }
+
+/* line 4, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
+*, *:before, *:after {
+  box-sizing: inherit; }
+
+/* line 7, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
+body, h1, h2, h3, h4, h5, h6, p, ul, li {
+  margin: 0;
+  padding: 0; }
+
+/* line 11, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
+.box {
+  color: #FFF;
+  font-size: 100px;
+  text-align: center;
+  text-shadow: 4px 4px rgba(0, 0, 0, 0.1);
+  padding: 10px; }
+
+/* line 18, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
+.box1 {
+  background: #1abc9c; }
+
+/* line 20, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
+.box2 {
+  background: #3498db; }
+
+/* line 22, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
+.box3 {
+  background: #9b59b6; }
+
+/* line 24, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
+.box4 {
+  background: #34495e; }
+
+/* line 26, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
+.box5 {
+  background: #f1c40f; }
+
+/* line 28, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
+.box6 {
+  background: #e67e22; }
+
+/* line 30, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
+.box7 {
+  background: #e74c3c; }
+
+/* line 32, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
+.box8 {
+  background: #bdc3c7; }
+
+/* line 34, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
+.box9 {
+  background: #2ecc71; }
+
+/* line 36, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
+.box10 {
+  background: #16a085; }
+
+/* line 39, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
+.container {
+  border: 10px solid goldenrod;
+  display: flex;
+  height: 100vh;
+  flex-direction: row;
+  flex-wrap: nowrap; }
+
+/* line 46, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
+.box {
+  width: 300px; }
+
+/*# sourceMappingURL=style.css.map */
