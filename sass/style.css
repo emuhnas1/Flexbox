@@ -62,13 +62,30 @@ body, h1, h2, h3, h4, h5, h6, p, ul, li {
 /* line 39, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
 .container {
   border: 10px solid goldenrod;
-  display: flex;
-  height: 100vh;
-  flex-direction: row;
-  flex-wrap: nowrap; }
+  display: flex; }
 
-/* line 46, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
+/* line 43, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
 .box {
-  width: 300px; }
+  flex: 1; }
+
+/* line 45, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
+.box9 {
+  order: 5; }
+
+/* line 47, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
+.box7 {
+  order: 4; }
+
+/* line 49, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
+.box5 {
+  order: 3; }
+
+/* line 51, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
+.box3 {
+  order: 2; }
+
+/* line 53, C:/Users/hexdof1/Documents/webbutveckling 2/flexbox1/sass/style.sass */
+.box1 {
+  order: 1; }
 
 /*# sourceMappingURL=style.css.map */
